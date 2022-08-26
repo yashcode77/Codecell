@@ -1,4 +1,4 @@
-# Name: Yash Chhaproo
+ Name: Yash Chhaproo
 Year: SE
 Class: D7A
 Problem statement: 1 (Technical Society)
